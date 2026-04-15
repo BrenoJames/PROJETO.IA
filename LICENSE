@@ -1,17 +1,16 @@
-# 🍕 IA Preditora de Preço de Pizza
+🍕 IA Preditora de Preço de Pizza
 
 Este projeto utiliza **Inteligência Artificial** para calcular o preço sugerido de uma pizza baseado no seu diâmetro. É um exemplo prático de como a **Regressão Linear** pode automatizar decisões de precificação.
 
 O aplicativo oferece uma interface simples onde você seleciona o tamanho desejado e recebe instantaneamente a estimativa de valor calculada pelo modelo.
 
-## 🚀 Tecnologias Utilizadas
-* **Python** 3.12
-* **Pandas**: Para estruturação dos dados das pizzas.
-* **Scikit-learn**: Para treinar o modelo de Machine Learning.
-* **Streamlit**: Para criar a interface web interativa.
+🚀 Tecnologias Utilizadas
 
-## 🛠️ Como rodar o projeto
+**Python** 3.12
+**Pandas**: Para estruturação dos dados das pizzas.
+**Scikit-learn**: Para treinar o modelo de Machine Learning.
+**Streamlit**: Para criar a interface web interativa.
 
-1. **Clone este repositório:**
-   ```bash
-   git clone https://github.com/BrenoJames/PROJETO.IA
+🛠️ Como rodar o projeto
+
+git clone https://github.com/BrenoJames/PROJETO.IA
